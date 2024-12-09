@@ -1,0 +1,20 @@
+[
+    {
+        "id": "675699d6e8d7d",
+        "nama": "Lightstick NCT",
+        "harga": "800.000",
+        "stok": "20"
+    },
+    {
+        "id": "67569ca7434c6",
+        "nama": "Lightstick aespa",
+        "harga": "700.000",
+        "stok": "30"
+    },
+    {
+        "id": "67569d01527f9",
+        "nama": "Lightstick Riize",
+        "harga": "700.000",
+        "stok": "25"
+    }
+]
